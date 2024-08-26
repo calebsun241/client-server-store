@@ -42,10 +42,6 @@ This is probably due to some bug in the JVM. If you do not do this, you may get 
 - Persistent data is stored in `data.txt` in the respository. Do not modify this file manually.
 - `data.txt` is prepopulated with data that is used to run the tests in `Tests.md`. Before you run tests, type `git restore data.txt` to ensure that `data.txt` is in its original state.
 
-## Submission
-Kipling Liu will submit the git repository to Vocareum and the report to Brightspace.
-Chance will submit the video.
-
 ## Class Descriptions
 
 ### Client.java
