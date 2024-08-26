@@ -1,0 +1,11 @@
+sellerEmail,sellerPW
+storeName1;product1,p1d,p1p,p1q;product2,p1d,p1p,p1q
+storeName2;product1,p1d,p1p,p1q;product2,p1d,p1p,p1q
+
+seller2Email,seller2PW
+storeName1;product1,p1d,p1p,p1q;product2,p1d,p1p,p1q
+storeName2;product1,p1d,p1p,p1q;product2,p1d,p1p,p1q
+
+
+customerEmail,customerPW
+p1seller,p1store,p1name,p1quantity;p2seller,p2store,p2name,p2quantity

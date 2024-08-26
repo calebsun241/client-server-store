@@ -1,0 +1,16 @@
+bob@gmail.com,psswd1
+amazon;a,a,15,15.0
+other_store;c,b,11,16.0
+end
+test@gmail.com,bob
+amazon;b,b,9,6.0
+end
+qwer@gmail.com,12345
+qer;Apple,apple,8,2.5;Orange,orange,7,2.43
+end
+end
+hello@gmail.com,fob
+a,amazon,bob@gmail.com,2,2,hello@gmail.com
+end
+end
+end

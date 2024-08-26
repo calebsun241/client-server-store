@@ -1,0 +1,14 @@
+bob@gmail.com,psswd1
+store1;Apple,A red fruit,10,5.0
+store2;Orange,An orange fruit,10,5.5
+end
+karen@gmail.com,psswd2
+end
+end
+penny@gmail.com,psswd3
+end
+jake@gmail.com,psswd4
+end
+end
+Apple,store1,bob@gmail.com,5.0,2,jake@gmail.com
+end

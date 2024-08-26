@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -e
+
+[[ -z "$1" ]] && exit 1
+
+COMMON_SOURCES="Server.java Client.java Customer.java MarketPlace.java Product.java Seller.java User.java ListEntry.java Store.java Transaction.java"
+BUILD_DIR="./"
+
+# mkdir -p "$BUILD_DIR"
+# rm -rf "$BUILD_DIR"/*
+javac $COMMON_SOURCES "$1.java" -d "$BUILD_DIR"
+java -classpath "$BUILD_DIR" "$1"

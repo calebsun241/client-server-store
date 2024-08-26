@@ -1,0 +1,4 @@
+MarketPlace.addTransaction(transaction t)
+- adds to t.getSellerEmail()
+- adds to t.getCustomerEmail()
+- adds to transactions
